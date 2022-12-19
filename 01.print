@@ -1,0 +1,3 @@
+ls
+cst /etc/passwd
+find / -name shadow

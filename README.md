@@ -1,4 +1,0 @@
-# learning-shell
-
-Shell Topics:
------------
